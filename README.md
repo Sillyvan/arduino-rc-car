@@ -6,3 +6,7 @@
 3. join the specified network of with your controlling device
 4. flash to arduino and arduino and controlling device should be in same network
 5. go to index.php and press the arrows to control.
+
+6. ### Hardware
+7. Arduino MKR1000 WIFI
+8. Aliexpress motors
